@@ -1,4 +1,4 @@
-# OnMovie
+# onmovie
 ## Sistema que recomenda filmes com base nas preferências do usuário e histórico de visualização.
 Projeto de python da faculdade realizado em grupo com colegas de classe.
 Créditos: Arthur Falcone / Dillan Rosa / Leonardo Ibraim / Diogo Garcia
